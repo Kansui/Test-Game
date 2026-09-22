@@ -35,4 +35,4 @@ Back-end:
 - Android and iOS Support (Beta)
 - Anti-Cheat System
 - Cloud-save
-- Paywall**
+- Paywall
